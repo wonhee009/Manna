@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 821db26856dc7e04f920dfe0ed11394c
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Background
+    100002: Camera01_BS
+    100004: Camera02_LIA
+    100006: Camera03_Coach
+    100008: Camera04_Player
+    100010: Camera05_FAR
+    100012: Camera05_FARFAR
+    100014: Camera07_Scenery
+    100016: DEC_Mirror
+    100018: DEC_Walls
+    100020: Dummy_Coach
+    100022: Dummy_Player
+    100024: //RootNode
+    100026: LGT_Direct01
+    100028: LGT_Direct02
+    100030: Mirror
+    100032: Mirror_borders
+    100034: Palm01
+    100036: Palm04
+    100038: Particle View 01
+    100040: ShadowPlane01
+    100042: ShadowPlane02
+    400000: Background
+    400002: Camera01_BS
+    400004: Camera02_LIA
+    400006: Camera03_Coach
+    400008: Camera04_Player
+    400010: Camera05_FAR
+    400012: Camera05_FARFAR
+    400014: Camera07_Scenery
+    400016: DEC_Mirror
+    400018: DEC_Walls
+    400020: Dummy_Coach
+    400022: Dummy_Player
+    400024: //RootNode
+    400026: LGT_Direct01
+    400028: LGT_Direct02
+    400030: Mirror
+    400032: Mirror_borders
+    400034: Palm01
+    400036: Palm04
+    400038: Particle View 01
+    400040: ShadowPlane01
+    400042: ShadowPlane02
+    2300000: Background
+    2300002: DEC_Mirror
+    2300004: DEC_Walls
+    2300006: Dummy_Coach
+    2300008: Dummy_Player
+    2300010: Mirror
+    2300012: Palm01
+    2300014: Palm04
+    2300016: ShadowPlane01
+    2300018: ShadowPlane02
+    3300000: Background
+    3300002: DEC_Mirror
+    3300004: DEC_Walls
+    3300006: Dummy_Coach
+    3300008: Dummy_Player
+    3300010: Mirror
+    3300012: Palm01
+    3300014: Palm04
+    3300016: ShadowPlane01
+    3300018: ShadowPlane02
+    4300000: DEC_Walls
+    4300002: DEC_Mirror
+    4300004: Background
+    4300006: Palm01
+    4300008: Palm04
+    4300010: Mirror
+    4300012: ShadowPlane02
+    4300014: ShadowPlane01
+    4300016: Dummy_Player
+    4300018: Dummy_Coach
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
